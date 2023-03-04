@@ -1,4 +1,4 @@
-# Infrastructure
+# Infrastructure description
 
 - **Frontend** is hosted on Amazon S3
 - **Backend** is hosted on Amazon Elastic Beanstalk
@@ -19,6 +19,9 @@
 ![EB](screenshots/EB.png)
 
 ### S3
+
+The production version should be accessible via this link
+http://udagrambucket2023.s3-website-us-east-1.amazonaws.com
 
 ![S3_Bucket](screenshots/S3_Bucket.png)
 

@@ -1,4 +1,4 @@
-## Pipeline
+## Pipeline process
 
 ![CI_CD](screenshots/CI_CD.png)
 
@@ -11,4 +11,4 @@
    - Front-End Build
    - API Build
 3. With a manual approval which applies the Continous Delivery strategy. CircleCI calls `Deploy App` (Install, build, deploy in both apps)
-4. When all process/pipeline is sucessful, A new version of the app should be deployed using different AWS services.
+4. When all the pipeline process is sucessful, A new version of the app should be deployed using different AWS services.
